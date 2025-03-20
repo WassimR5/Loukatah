@@ -451,7 +451,8 @@ fun AddItemScreen(
                         }
 
                         IconButton(
-                            onClick = { },
+                            onClick = { git init
+                            },
                             modifier = Modifier
                                 .size(60.dp)
                                 .background(
